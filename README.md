@@ -25,8 +25,8 @@ ALso an client base project built on core PHP my responsibility in the project i
 
 A client base project built on October CMS built over Laravel. My working on the project is as Front-end developer developing frontend of the project. The project is type of blog posting system. Built frontend using HTML and CSS and bootstrap.
 * learning in the project
-      - Learning of the October CMS and its working
-      - getting and inserting dynamic data from the October CMS backend using CMS syntax
+      *      Learning of the October CMS and its working
+      *      getting and inserting dynamic data from the October CMS backend using CMS syntax
 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/d2c55cfc-e4f3-4a82-979d-dd1c0d891c69) ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/06cf5ed2-e84e-4200-a777-ec965ea470bf)
 
