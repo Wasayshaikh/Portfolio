@@ -16,6 +16,9 @@ ALso an client base project built on core PHP my responsibility in the project i
     - Access limitation base on user subscribe
     - Integration of stripe subscription payment system
 
+      | ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/6e1d2cde-5465-42bd-8a90-f69af71bb143)
+
+
 ## <a href="priority1canine.com">Priority1canine</a>
 
 A client base project built on October CMS built over Laravel. My working on the project is as Front-end developer developing frontend of the project. The project is type of blog posting system. Built frontend using HTML and CSS and bootstrap.
