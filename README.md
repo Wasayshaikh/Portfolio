@@ -2,7 +2,7 @@
 
 This is my portfolio for Web Development experience.
 ## <a href="https://erickci.staging-server.online/">Pluglist</a>
-A client base project and the core developer for the front-end and the back end of the application the project is the multivendor web application used to sell the cannabis. The application has three different roles admin, vendors, and users. The application includes adding products, chat functionality, and crypto payment using nowpayment payment services.<br/>
+A client base project on which I work as a core developer for the Front-end and the Backend of the application. The project is the multivendor web application used to sell the cannabis. The application has three different roles admin, vendors, and users. The application includes adding products, chat functionality, and crypto payment using NOWPayment payment services.<br/>
 The application is still under development, and I am working on the application as the full-stack developer.<br/>
 *	Learning in the project
       -  The PHP framework “CodeIgniter” and its workflow
@@ -13,7 +13,7 @@ The application is still under development, and I am working on the application 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/6e1d2cde-5465-42bd-8a90-f69af71bb143)  ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/ef376151-621e-442a-8d53-eac3684dab26)
 
 ## <a href="https://eslvideo.com/">ESLVideo</a>
-ALso an client base project built on core PHP my responsibility in the project is to create backend of the project and integrate the the subscribe payment method using stripe. Create the form validation using regex and security feature.
+Also a client base project built on core PHP my responsibility in the project is to create backend of the project and integrate the the subscribe payment method using stripe. Create the form validation using regex and security feature.
 - Learning in project 
     -  Form validation using PHP regex 
     -  Access limitation base on user subscribe
