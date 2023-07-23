@@ -52,11 +52,11 @@ The creating of the company portfolio website using Reactjs. Worked as frontend 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/b92b1a7d-9537-4f9f-9108-3a1235412ae8) ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/88e04b29-2a71-4f40-a0a6-cf4772059c9e)
 
 ## <a href="https://www.metaodyssey.io/demo"> Metaodyssey</a>
-A project created using PHP, HTML, JavaScript, CSS and boorstrap. Played role as fullstack developer, created the UI using HTML, CSS, JavaScript and bootstrap according the design provided as PSD file and created the backend to retrive the data from database to make the content dynamic.
+A project created using PHP, HTML, JavaScript, CSS and boorstrap. Played role as fullstack developer, created the UI using HTML, CSS, JavaScript and bootstrap according the design provided as PSD file and created the backend to retrieve the data from database to make the content dynamic.
 *   Learning in the project
       -  Converstion of the PSD file into pixel perfect UI using the HTML, CSS, JavaScript and bootstrap
-      -  Use of php to retrieve the data from database MySQL
-      -  Learn the use to create and maintain database using MySQL
+      -  Use of PHP to retrieve the data from database MySQL
+      -  Create and maintain database using MySQL
 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/a9f9d5cd-dc88-40d0-9aeb-934a30d0e997) ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/f78ccc4d-d4a9-4e7e-86d8-6ed2070eb05b)
 
@@ -65,8 +65,8 @@ A project to created the portfolio webstie of designer using vue.js. The simple 
 *   Learning in the project
       - Use of vue.js to create the spa project
       - Created the routed using vue-route
-      - learn to use reusable component using vue component
-      - learn to use vue store using vuex
+      - Learn to use reusable component using vue component
+      - Learn to use vue store using vuex
     <img src="https://github.com/Wasayshaikh/Portfolio/assets/71258604/a006d954-3600-4a8d-a6b5-8d8a51e93ecf" width="500px" />
      <img src="https://github.com/Wasayshaikh/Portfolio/assets/71258604/9d3327e8-8506-436a-aa6a-0cad89d77809" width="500px" />
 ![Abdullah Porfolio home (2)](https://github.com/Wasayshaikh/Portfolio/assets/71258604/a006d954-3600-4a8d-a6b5-8d8a51e93ecf)
