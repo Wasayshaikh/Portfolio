@@ -67,7 +67,10 @@ A project to created the portfolio webstie of designer using vue.js. The simple 
       - Created the routed using vue-route
       - learn to use reusable component using vue component
       - learn to use vue store using vuex
-  
+![Abdullah Porfolio home (2)](https://github.com/Wasayshaikh/Portfolio/assets/71258604/a006d954-3600-4a8d-a6b5-8d8a51e93ecf)
+
+![Abdullah Porfolio home (3)](https://github.com/Wasayshaikh/Portfolio/assets/71258604/9d3327e8-8506-436a-aa6a-0cad89d77809)
+
 
 
 
