@@ -15,9 +15,9 @@ The application is still under development, and I am working on the application 
 ## <a href="https://eslvideo.com/">ESLVideo</a>
 ALso an client base project built on core PHP my responsibility in the project is to create backend of the project and integrate the the subscribe payment method using stripe. Create the form validation using regex and security feature.
 - learning in project 
-    -       Form validation using PHP regex 
-    -       Access limitation base on user subscribe
-    -       Integration of stripe subscription payment system
+    - Form validation using PHP regex 
+    -  Access limitation base on user subscribe
+    -  Integration of stripe subscription payment system
 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/4785a90d-1c67-4a09-86d6-54366db56c45)
 
