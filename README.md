@@ -67,7 +67,6 @@ A project to created the portfolio webstie of designer using vue.js. The simple 
       - learn to use reusable component using vue component
       - learn to use vue store using vuex
   
-![Abdullah Porfolio home (2)](https://github.com/Wasayshaikh/Portfolio/assets/71258604/48bbbfef-4d09-460b-9750-6e66256b3f01) 
-![Abdullah Porfolio home (3)](https://github.com/Wasayshaikh/Portfolio/assets/71258604/95dc3713-030a-4183-a85e-32ad4d0bbe04)
+
 
 
