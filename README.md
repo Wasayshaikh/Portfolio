@@ -33,7 +33,7 @@ A client base project built on October CMS built over Laravel. My working on the
 
 ## <a href="https://yuan.staging-server.online/"> Invista</a>
 An ongoing project building on laravel and HTML,CSS, Bootstrap and JavaScript. In this project I am playing a role of frontend developing the pixel perfect UI of the project according to the figma design provided to us.
-*   learning in the project
+* learning in the project
       -      Creating pixel perfect using as the design provided
       -      Using MVC design patteren of laravel
       -      Using blade syntax and reusable section using laravel blade syntax
