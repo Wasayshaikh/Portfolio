@@ -52,10 +52,10 @@ The creating of the simple company portfolio website using reactjs. Worked as fr
 
 ## <a href="https://www.metaodyssey.io/demo"> metaodyssey</a>
 A project created using PHP, HTML, JavaScript, CSS and boorstrap. Played role as fullstack developer, created the UI using HTML,CSS, JavaScript and bootstrap according the design provided as PSD file and created the backed to retrive the data from database to make the content dynaamic.
-- Learning in the project
-      - Converstion of the PSD file into pixel perfect UI using the HTML, CSS, JavaScript and bootstrap
-      - Use of php to retrive the data from database MySQL
-      - Learn the use to create and maintain database using MySQL
+*    Learning in the project
+      -  Converstion of the PSD file into pixel perfect UI using the HTML, CSS, JavaScript and bootstrap
+      -   Use of php to retrive the data from database MySQL
+      -  Learn the use to create and maintain database using MySQL
 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/a9f9d5cd-dc88-40d0-9aeb-934a30d0e997) ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/f78ccc4d-d4a9-4e7e-86d8-6ed2070eb05b)
 
