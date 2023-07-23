@@ -5,7 +5,7 @@ This is my portfolio for my Web Development experience.
 A client base project and the core developer for the front-end and the back end of the application the project is the multivendor web application used to sell the cannabis. The application has three different roles admin, vendors, and users. The application includes adding products, chat functionality, and crypto payment using nowpayment payment services.<br/>
 The application is still under development, and I am working on the application as the full-stack developer.<br/>
 *	Learning in the project
-      -	The PHP framework “CodeIgniter” and its workflow
+      -  The PHP framework “CodeIgniter” and its workflow
       -	Authentication using CodeIgniter session functions.
       -	Use of Nowpayment services for crypto payments
       -	Use of Google map services and geolocation for store locations.
@@ -25,7 +25,7 @@ ALso an client base project built on core PHP my responsibility in the project i
 
 A client base project built on October CMS built over Laravel. My working on the project is as Front-end developer developing frontend of the project. The project is type of blog posting system. Built frontend using HTML and CSS and bootstrap.
 * learning in the project
-      *      Learning of the October CMS and its working
+Learning of the October CMS and its working
       *      getting and inserting dynamic data from the October CMS backend using CMS syntax
 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/d2c55cfc-e4f3-4a82-979d-dd1c0d891c69) ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/06cf5ed2-e84e-4200-a777-ec965ea470bf)
