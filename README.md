@@ -60,7 +60,7 @@ A project created using PHP, HTML, JavaScript, CSS and boorstrap. Played role as
 
 ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/a9f9d5cd-dc88-40d0-9aeb-934a30d0e997) ![image](https://github.com/Wasayshaikh/Portfolio/assets/71258604/f78ccc4d-d4a9-4e7e-86d8-6ed2070eb05b)
 
-##  <a href="https://abdullah.wasay.me/"> Portolio Website</a>
+##  Portolio Website
 A project to create the portfolio webstie of designer using vue.js. The SPA(Single-Page-Application) project to create the portfolio website with use of Vue.js and Vuex
 *   Learning in the project
       - Use of Vue.js to create the SPA project
